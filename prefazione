@@ -1,0 +1,13 @@
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+A guide to practical data mining, collective intelligence, and building recommendation systems by Ron Zacharski
+It is available as a free download under a Creative Commons license. You are free to share the book, translate it, or remix it.
+
+About the book
+Before you is a tool for learning basic data mining techniques. Most data mining textbooks focus on providing a theoretical foundation for data mining, and as result, may seem notoriously difficult to understand. Don’t get me wrong, the information in those books is extremely important. However, if you are a programmer interested in learning a bit about data mining you might be interested in a beginner’s hands-on guide as a first step. That’s what this book provides. This guide follows a learn-by-doing approach. Instead of passively reading the book, I encourage you to work through the exercises and experiment with the Python code I provide. I hope you will be actively involved in trying out and programming data mining techniques. The textbook is laid out as a series of small steps that build on each other until, by the time you complete the book, you have laid the foundation for understanding data mining techniques.
+
+Table of Contents
+This book’s contents are freely available as PDF files. When you click on a chapter title below, you will be taken to a webpage for that chapter. That page contains links for the PDF, the Python code used for the chapter as well as the chapter’s sample data sets. Please let me know if you see an error in the book, if some part of the book is confusing, or if you have some other comment. I will use these to revise the chapters.
+
+Download the entire book
+You can also download the book as one large (~150MB) pdf and all the source code at https://github.com/zacharski/pg2dm-python.
